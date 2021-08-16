@@ -50,14 +50,11 @@ cd Yellow or cd /path/to/Yellow
 flutter run -v
 ```
 
-<br>
-
 
 ## Built With
 * [Flutter](https://flutter.dev/) - Cross-Platform Mobile Dev Framework
 * [FireBase](https://firebase.google.com/docs) - Web Driver
 
-<br>
 
 ## Contributing
 ### How to Contribute?
@@ -87,10 +84,6 @@ Open the terminal in this directory then enter the following commands in the ter
        //Switches to local master branch//
        $ git merge upstream/master
        //Merges the upstearm remote (Main repo) into your local fork//     
-<br>
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-<br>
-

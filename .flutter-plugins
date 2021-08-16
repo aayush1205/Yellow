@@ -1,0 +1,19 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.0.1/
+firebase_auth_web=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.0.0/
+firebase_core=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.4.0/
+firebase_core_web=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.1.0/
+flutter_inappwebview=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappwebview-5.3.2/
+google_sign_in=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.0.7/
+google_sign_in_web=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+1/
+path_provider=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.2/
+path_provider_linux=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.0.2/
+path_provider_macos=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.2/
+path_provider_windows=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.3/
+shared_preferences=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.6/
+shared_preferences_linux=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.2/
+shared_preferences_macos=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.2/
+shared_preferences_web=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.1/
+shared_preferences_windows=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.2/
+sqflite=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+3/
+wiredash=/home/aayush/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/wiredash-0.6.2/

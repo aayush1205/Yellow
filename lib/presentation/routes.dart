@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 // import 'package:movieapp/presentation/journeys/loading/loading_screen.dart';
 import 'package:movieapp/presentation/journeys/movie_detail/movie_detail_arguments.dart';
+import 'package:movieapp/presentation/login_screen.dart';
 
 import '../common/constants/route_constants.dart';
 import 'journeys/favorite/favorite_screen.dart';
@@ -11,6 +12,7 @@ class Routes {
         RouteList.movieDetail: (context) => MovieDetailScreen(
               movieDetailArguments: setting.arguments as MovieDetailArguments,
             ),
-        RouteList.initial: (context) => FavoriteScreen(),
+        RouteList.initial: (context) => LoginPage(),
+        RouteList.favorite: (context) => FavoriteScreen(),
       };
 }
